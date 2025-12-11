@@ -1,0 +1,5 @@
+{
+  "name": "Injection: The HR Hack",
+  "description": "A security playground where you try to prompt-engineer your way past an AI HR bot to get a job offer.",
+  "requestFramePermissions": []
+}
